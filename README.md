@@ -1,4 +1,4 @@
-# DISW Take-Home Interview Questions #
+# DISW Take-Home Assignment #
 
 **PURPOSE:** 
 
@@ -37,5 +37,4 @@ Which algorithm performed best? Which algorithm performed worst? And why? What i
 ## Question 3 (no code required. We're only looking for a written response):
 Conceptually, what are the different tools such as code libraries or infrastructure that could help you 
 find the smallest non-negative difference between 1 million lists that are 5,000 integers long?
-
 

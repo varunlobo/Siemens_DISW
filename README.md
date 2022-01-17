@@ -22,7 +22,7 @@ Provide 2 or 3 different ways to calculate the pair of values (one value in each
 
 Return the elements in the array and the smallest non-negative difference.
 
-For example, the answer with array `a` & `b` above is `b = 14` and `a = 13` because their difference is `14-13 = 1`, which is the smallest non-negative difference. As a note, array `a` can be subtracted from `b` and array `b` can be subtracted from `a`.
+For example, the answer with array `a` & `b` above is `b = 14` and `a = 13` because their difference is `14-13 = 1`, which is the smallest non-negative difference. As a note, an element in array `a` can be subtracted from an element in array `b` and vice versa.
 
 We are not looking for the most optimal code, but a variety of methods you could use calculate the smallest different and why you would select one method over another.
 

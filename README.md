@@ -22,12 +22,12 @@ Provide 2 or 3 different ways to calculate the pair of values (one value in each
 
 Return the elements in the array and the smallest non-negative difference.
 
-For example, the answer with array `a` & `b` above is `b = 14` and `a = 13` because their difference is `14-13 = 1`, which is the smallest non-negative difference.
+For example, the answer with array `a` & `b` above is `b = 14` and `a = 13` because their difference is `14-13 = 1`, which is the smallest non-negative difference. As a note, array `a` can be subtracted from `b` and array `b` can be subtracted from `a`.
 
 We are not looking for the most optimal code, but a variety of methods you could use calculate the smallest different and why you would select one method over another.
 
 ## Question 2 (code required):
-Create 2 lists of random integers between 1 and 1,000,000. Each list should be 5,000 integers long. 
+Create 2 arrays of random integers between 1 and 10,000,000. Each array should be 1,000 integers long. 
 
 Apply the multiple methods you derived in Question 1 with the 2 new arrays of integers you calculate in this question. 
 
